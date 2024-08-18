@@ -23,8 +23,8 @@ If you are
 
 
 ## 5. References
-[1] 
-
+[1] Min Zeng, Fuhao Zhang, Fang-Xiang Wu, Yaohang Li, Jianxin Wang, Min Li*. Protein-protein interaction site prediction through combining local and global features with deep neural networks[J]. Bioinformatics, 36(4), 2020, 1114–1120. DOI:10.1093/bioinformaticsz699.  
+[2] Quadrini M, Daberdaku S, Ferrari C. Hierarchical representation for PPI sites prediction[J]. BMC Bioinformatics, 2022, 23(1):1-34. DOI:10.1186/s12859-022-04624-y.  
 
 ## 6. Contact
 For questions and comments, feel free to contact: ieslu@zzu.edu.cn.
