@@ -6,7 +6,7 @@ Protein-protein interactions play a fundamental role in biological systems. Accu
 
 
 ## 1. Datasets and trainded models
-The datasets used for training HSSPPISP and the trained models mentioned in our manuscrpit can be downloaded from https://pan.baidu.com/s/1R1d3ixNpBgTuCY0WvRMftQ （Password: PBRS）
+The datasets used for training HSSPPISP and the trained models mentioned in our manuscrpit can be downloaded from https://pan.baidu.com/s/1H6xk9_mPtt8pSsSOV9pXEQ（Password: PPIS）
 
 ## 2. Requirement
 * Python = 3.9.10  
