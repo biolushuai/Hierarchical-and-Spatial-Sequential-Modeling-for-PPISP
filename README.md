@@ -1,1 +1,1 @@
-# Hierarchical-and-Spatial-Sequential-Modeling-for-PPISP
+# Hierarchical-Spatial-Sequential-Modeling-for-PPISP
