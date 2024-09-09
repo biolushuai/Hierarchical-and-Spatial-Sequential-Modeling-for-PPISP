@@ -1,4 +1,4 @@
-# Hierarchical-Spatial-Sequential-Modeling-for-PPISP
+# Hierarchical-Spatial-Sequential-Modeling-of-Protein
 
 
 # Abstract
