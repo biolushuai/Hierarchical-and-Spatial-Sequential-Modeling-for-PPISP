@@ -14,7 +14,13 @@ The datasets used for training HSSPPISP and the trained models mentioned in our 
 * Scikit-learn = 1.0.2
 
 ## 3. Usage
+develop_mspbrsp.py provides the code to reproduce the PMSFF (hyperparameters can be reset in configs.py).
 
+get_preds_single.py shows an example how to generate binding residue predictions.
+
+ProtT5 embeddings can be generated using bio_embeddings (https://github.com/sacdallago/bio_embeddings).
+
+We provide an example in ./test_data and the ProtT5 embedding of testing protein is saved in a csv file.
 
 ## 4. Citation
 If you are 
