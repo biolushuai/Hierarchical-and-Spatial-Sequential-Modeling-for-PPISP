@@ -15,19 +15,12 @@ The datasets used for training HSSPPISP and the trained models mentioned in our 
 * Scikit-learn = 1.0.2
 
 ## 3. Usage
-develop_mspbrsp.py provides the code to reproduce the PMSFF (hyperparameters can be reset in configs.py).
-
-get_preds_single.py shows an example how to generate binding residue predictions.
+train.py provides the code to retrain the HSSPPI (hyperparameters can be reset in configs.py).
 
 ProtT5 embeddings can be generated using bio_embeddings (https://github.com/sacdallago/bio_embeddings).
 
-We provide an example in ./test_data and the ProtT5 embedding of testing protein is saved in a csv file.
-
 ## 4. Citation
-If you are 
-
-
-
+This repository is the implementation of our Paper under review.
 
 ## 5. References
 [1] Min Zeng, Fuhao Zhang, Fang-Xiang Wu, Yaohang Li, Jianxin Wang, Min Li*. Protein-protein interaction site prediction through combining local and global features with deep neural networks[J]. Bioinformatics, 36(4), 2020, 1114–1120. DOI:10.1093/bioinformaticsz699.  
