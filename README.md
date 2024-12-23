@@ -21,10 +21,11 @@ We implemented our method using PyTorch and Deep torch-geometric (PyG). Please i
 
 ## 3. Usage
 Please create a new conda enviroment and install tools mentationed above.
-* Training
-Please change the parameters in configs.py and run train.py for retraining HSSPPI.
-* Testing
-Please run test.py for generating the performance of trained models placed in the folder "models_saved" and the results will be saved in this path.
+### Training
+* Please change the parameters in configs.py and run train.py for retraining HSSPPI.
+### Testing
+* Please run test.py for generating the performance of trained models placed in the folder "models_saved" and the results will be saved in this path.
+
 ## 4. Citation
 This repository is the implementation of our Paper under review.
 
