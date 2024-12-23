@@ -8,8 +8,8 @@ Protein-protein interactions play a fundamental role in biological systems. Accu
 
 ## 1. Datasets and trainded models
 The datasets used for training HSSPPISP and the trained models mentioned in our manuscrpit can be downloaded from https://pan.baidu.com/s/1H6xk9_mPtt8pSsSOV9pXEQ  （Password: PPIS）
-Please download the trained model weight-file "model.tar" and place this weight-file in the folder "models_saved". 
-Please download the training set (Train352 or Train335) and testing set (Test70 or Test60) and place those datasets in the folder "data".
+* Please download the trained model weight-file "model.tar" and place this weight-file in the folder "models_saved". 
+* Please download the training set (Train352 or Train335) and testing set (Test70 or Test60) and place those datasets in the folder "data".
 
 ## 2. Requirement
 We implemented our method using PyTorch and Deep torch-geometric (PyG). Please install these tools for successfully running our code. Necessary installation instructions are available at the following links: 
