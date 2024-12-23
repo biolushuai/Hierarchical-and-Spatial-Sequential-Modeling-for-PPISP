@@ -13,6 +13,7 @@ The datasets used for training HSSPPISP and the trained models mentioned in our 
 We implemented our method using PyTorch and Deep torch-geometric (PyG). Please install these two for successfully running our code. Necessary installation instructions are available at the following links: 
 * [python = 3.9.10] ((https://www.python.org/downloads/)
 * [访问示例网站](https://www.example.com)
+* [pytorch = 1.10.2](https://pytorch.org/get-started/locally/#start-locally)
 * [pytorch = 1.10.2] (https://pytorch.org/get-started/locally/#start-locally)
 * [torch-geometric = 2.4.0] (https://pypi.org/project/torch-geometric/)
 
