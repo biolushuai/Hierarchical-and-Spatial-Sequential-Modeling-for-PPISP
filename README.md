@@ -11,6 +11,8 @@ The datasets used for training HSSPPISP and the trained models mentioned in our 
 * Please download the trained model weight-file "model.tar" and place this weight-file in the folder "models_saved". 
 * Please download the training set (Train352 or Train335) and testing set (Test70 or Test60) and place those datasets in the folder "data".
 
+We provide the processed datasets. If new features are willing to be used, ProtT5 embeddings can be generated using bio_embeddings (https://github.com/sacdallago/bio_embeddings).
+
 ## 2. Requirement
 We implemented our method using PyTorch and Deep torch-geometric (PyG). Please install these tools for successfully running our code. Necessary installation instructions are available at the following links: 
 * [python = 3.9.10](https://www.python.org/downloads/)
@@ -18,10 +20,11 @@ We implemented our method using PyTorch and Deep torch-geometric (PyG). Please i
 * [torch-geometric = 2.4.0](https://pypi.org/project/torch-geometric/)
 
 ## 3. Usage
-train.py provides the code to retrain the HSSPPI (hyperparameters can be reset in configs.py).
-
-ProtT5 embeddings can be generated using bio_embeddings (https://github.com/sacdallago/bio_embeddings).
-
+Please create a new conda enviroment and install tools mentationed above.
+* Training
+Please change the parameters in configs.py and run train.py for retraining HSSPPI.
+* Testing
+Please run test.py for generating the performance of trained models placed in the folder "models_saved" and the results will be saved in this path.
 ## 4. Citation
 This repository is the implementation of our Paper under review.
 
