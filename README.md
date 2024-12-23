@@ -12,7 +12,7 @@ The datasets used for training HSSPPISP and the trained models mentioned in our 
 ## 2. Requirement
 * Python = 3.9.10  
 * Pytorch = 1.10.2  
-* torch-geometric = 2.4.0 (https://pypi.org/project/torch-geometric/)
+* [torch-geometric = 2.4.0] (https://pypi.org/project/torch-geometric/)
 
 ## 3. Usage
 train.py provides the code to retrain the HSSPPI (hyperparameters can be reset in configs.py).
