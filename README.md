@@ -10,7 +10,7 @@ Protein-protein interactions play a fundamental role in biological systems. Accu
 The datasets used for training HSSPPISP and the trained models mentioned in our manuscrpit can be downloaded from https://pan.baidu.com/s/1H6xk9_mPtt8pSsSOV9pXEQ  （Password: PPIS）
 
 ## 2. Requirement
-We implemented our method using PyTorch and Deep torch-geometric (PyG). Please install these two for successfully running our code. Necessary installation instructions are available at the following links: 
+We implemented our method using PyTorch and Deep torch-geometric (PyG). Please install these tools for successfully running our code. Necessary installation instructions are available at the following links: 
 * [python = 3.9.10](https://www.python.org/downloads/)
 * [pytorch = 1.10.2](https://pytorch.org/get-started/locally/#start-locally)
 * [torch-geometric = 2.4.0](https://pypi.org/project/torch-geometric/)
